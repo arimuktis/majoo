@@ -1,0 +1,2 @@
+# majoo
+majoo test
